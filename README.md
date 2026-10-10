@@ -16,13 +16,13 @@
 
 I'm a self-taught front-end developer from Bangladesh who loves building clean, good-looking interfaces and turning ideas into things people can actually use.
 
-- 🌱 Currently learning **Backend Development**
-- 🎓 Graduated from **Independent University, Bangladesh**
-- 🎨 Designing with **Figma, Photoshop & Illustrator**
-- 💻 Building with **JavaScript, TypeScript, Python, Django & Laravel**
-- 📫 Reach me at **[sudiptoking3@gmail.com](mailto:sudiptoking3@gmail.com)**
-- 🌐 Portfolio: **[sudipto.page.gd](https://sudipto.page.gd/)**
-- ⚡ I like turning ideas into things people can actually use
+- Currently learning **Backend Development**
+- Graduated from **Independent University, Bangladesh**
+- Designing with **Figma, Photoshop & Illustrator**
+- Building with **JavaScript, TypeScript, Python, Django & Laravel**
+- Reach me at **[sudiptoking3@gmail.com](mailto:sudiptoking3@gmail.com)**
+- Portfolio: **[sudipto.page.gd](https://sudipto.page.gd/)**
+- I like turning ideas into things people can actually use
 
 ---
 
