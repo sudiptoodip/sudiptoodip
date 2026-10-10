@@ -1,9 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f5132&height=200&section=header&text=Hey%20%F0%9F%91%8B%2C%20I'm%20Sudipto&fontSize=54&fontColor=00ff88&fontAlign=50&fontAlignY=35&desc=front-end dev%20%C2%B7%20learning backend%20%C2%B7%20self-taught%20%C2%B7%20designer&descSize=16&descAlign=50&descAlignY=55" alt="Sudipto Chowdhury" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f5132&height=200&section=header&text=Sudipto%20Chowdhury&fontSize=58&fontColor=00ff88&fontAlign=50&fontAlignY=35&desc=Front-end%20dev%20%C2%B7%20Learning%20backend%20%C2%B7%20Self-taught%20designer&descSize=16&descAlign=50&descAlignY=55" alt="Sudipto Chowdhury" width="100%" />
 </p>
-
-<h3 align="center">Front-End Developer • Learning Backend • Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudiptoodip&label=PROFILE%20VIEWS&color=0f8040&labelColor=555555&style=for-the-badge" alt="Profile views" />
@@ -14,7 +12,7 @@
 ---
 
 <!-- ===================== ABOUT ===================== -->
-## 👨‍💻 `> cat ~/about.md`
+## `about.md`
 
 I'm a self-taught front-end developer from Bangladesh who loves building clean, good-looking interfaces and turning ideas into things people can actually use.
 
@@ -29,7 +27,7 @@ I'm a self-taught front-end developer from Bangladesh who loves building clean, 
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ `> cat /etc/stack.conf`
+## `stack.conf`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,django,laravel,mongodb,mysql,sqlite,docker,git,github,figma,ps,ai&perline=8" alt="Tech stack" />
@@ -63,19 +61,8 @@ I'm a self-taught front-end developer from Bangladesh who loves building clean, 
 
 ---
 
-<!-- ===================== GITHUB OVERVIEW ===================== -->
-## 📌 `> ./run_diagnostics.sh --user=sudiptoodip`
-
-### GitHub Overview
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudiptoodip&theme=github_dark" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudiptoodip&theme=github_dark" alt="Top languages by repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudiptoodip&theme=github_dark" alt="Top languages by commit" />
-</p>
+<!-- ===================== DIAGNOSTICS ===================== -->
+## `run_diagnostics.sh`
 
 <table align="center">
   <tr>
@@ -92,35 +79,10 @@ I'm a self-taught front-end developer from Bangladesh who loves building clean, 
   <img src="https://streak-stats.demolab.com/?user=sudiptoodip&hide_border=true&background=282a36&ring=ff6e96&fire=ff6e96&currStreakNum=7dd3fc&currStreakLabel=7dd3fc&sideNums=ff6e96&sideLabels=ff6e96&dates=ffffff&stroke=ffffff33" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sudiptoodip&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
-  </a>
-</p>
-
----
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 `> ls ~/featured-projects`
-
-<!-- 👉 Replace each REPO_NAME with one of your real repository names. -->
-<p align="center">
-  <a href="https://github.com/sudiptoodip/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_1&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc" alt="Project 1" /></a>
-  <a href="https://github.com/sudiptoodip/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_2&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc" alt="Project 2" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/sudiptoodip/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_3&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc" alt="Project 3" /></a>
-  <a href="https://github.com/sudiptoodip/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_4&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc" alt="Project 4" /></a>
-</p>
-
 ---
 
 <!-- ===================== ACTIVITY ===================== -->
-## 📈 `> tail -f ~/activity.log`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudiptoodip&bg_color=0d1117&color=00ff88&line=0f8040&point=ffffff&area=true&area_color=0f5132&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" width="100%" />
-</p>
+## `activity.log`
 
 <!-- The snake is generated by .github/workflows/snake.yml (first run populates it after you push) -->
 <p align="center">
@@ -134,7 +96,7 @@ I'm a self-taught front-end developer from Bangladesh who loves building clean, 
 ---
 
 <!-- ===================== CONNECT ===================== -->
-## 🤝 `> ./connect.sh`
+## `connect.sh`
 
 <p align="center">
   <a href="https://sudipto.page.gd/"><img src="https://img.shields.io/badge/PORTFOLIO-0f8040?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
