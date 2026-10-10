@@ -1,68 +1,128 @@
-<h1 align="center">Hey 👋, I'm Sudipto Chowdhury</h1>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f5132&height=200&section=header&text=Hey%20%F0%9F%91%8B%2C%20I'm%20Sudipto&fontSize=54&fontColor=00ff88&fontAlign=50&fontAlignY=35&desc=front-end.dev%20%C2%B7%20learning.backend%20%C2%B7%20self-taught%20%C2%B7%20designer&descSize=16&descAlign=50&descAlignY=55" alt="Sudipto Chowdhury" width="100%" />
+</p>
 
 <h3 align="center">Front-End Developer • Learning Backend • Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudiptoodip&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/sudiptoodip?tab=followers"><img src="https://img.shields.io/github/followers/sudiptoodip?label=Followers&style=flat&color=0e75b6&labelColor=555555" alt="Followers" /></a>
-  <a href="https://twitter.com/sudiptoo_dip"><img src="https://img.shields.io/twitter/follow/sudiptoo_dip?logo=x&style=flat" alt="Follow on X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sudiptoodip&label=PROFILE%20VIEWS&color=0f8040&labelColor=555555&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/sudiptoodip?tab=followers"><img src="https://img.shields.io/github/followers/sudiptoodip?label=FOLLOWERS&logo=github&style=for-the-badge&labelColor=555555&color=0f8040" alt="Followers" /></a>
+  <a href="https://twitter.com/sudiptoo_dip"><img src="https://img.shields.io/twitter/follow/sudiptoo_dip?logo=x&style=for-the-badge&labelColor=555555&color=0f8040" alt="Follow on X" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 `> cat ~/about.md`
 
-I'm a self-taught front-end developer from Bangladesh who enjoys building clean, usable interfaces, picking up new technologies, and designing things people actually want to use.
+I'm a self-taught front-end developer from Bangladesh who loves building clean, good-looking interfaces and turning ideas into things people can actually use.
 
-- 🔭 Currently learning **Backend Development**
+- 🌱 Currently learning **Backend Development**
 - 🎓 Graduated from **Independent University, Bangladesh**
-- 🎨 I also design with **Figma, Photoshop & Illustrator**
-- 🌐 Check out my site: **[sudipto.page.gd](https://sudipto.page.gd/)**
+- 🎨 Designing with **Figma, Photoshop & Illustrator**
+- 💻 Building with **JavaScript, TypeScript, Python, Django & Laravel**
 - 📫 Reach me at **[sudiptoking3@gmail.com](mailto:sudiptoking3@gmail.com)**
-- ⚡ I like turning ideas into things that work
+- 🌐 Portfolio: **[sudipto.page.gd](https://sudipto.page.gd/)**
+- ⚡ I like turning ideas into things people can actually use
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ `> cat /etc/stack.conf`
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,django,laravel,mongodb,mysql,sqlite,docker,git,github,figma,ps,ai&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,django,laravel,mongodb,mysql,sqlite,docker,git,github,figma,ps,ai&perline=8" alt="Tech stack" />
+</p>
+
+**// languages**
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**// backend & databases**
+
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**// design & tools**
+
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white)
+
+---
+
+<!-- ===================== GITHUB OVERVIEW ===================== -->
+## 📌 `> ./run_diagnostics.sh --user=sudiptoodip`
+
+### GitHub Overview
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudiptoodip&theme=github_dark" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudiptoodip&theme=github_dark" alt="Top languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudiptoodip&theme=github_dark" alt="Top languages by commit" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=sudiptoodip&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc&ring_color=ff6e96&rank_icon=github" alt="GitHub stats" />
+    </td>
+    <td align="center" valign="top">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptoodip&layout=compact&langs_count=8&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sudiptoodip&hide_border=true&background=282a36&ring=ff6e96&fire=ff6e96&currStreakNum=7dd3fc&currStreakLabel=7dd3fc&sideNums=ff6e96&sideLabels=ff6e96&dates=ffffff&stroke=ffffff33" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sudiptoodip&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
   </a>
 </p>
 
 ---
 
-## 📌 GitHub Overview
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 `> ls ~/featured-projects`
 
+<!-- 👉 Replace each REPO_NAME with one of your real repository names. -->
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" width="100%" />
+  <a href="https://github.com/sudiptoodip/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_1&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc" alt="Project 1" /></a>
+  <a href="https://github.com/sudiptoodip/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_2&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc" alt="Project 2" /></a>
 </p>
-
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" width="48%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" width="48%" />
+  <a href="https://github.com/sudiptoodip/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_3&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc" alt="Project 3" /></a>
+  <a href="https://github.com/sudiptoodip/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_4&hide_border=true&bg_color=282a36&title_color=ff6e96&text_color=ffffff&icon_color=7dd3fc" alt="Project 4" /></a>
 </p>
-
-> The three cards above are generated by the `profile-summary.yml` workflow. They stay empty until it has run once (see the setup notes).
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== ACTIVITY ===================== -->
+## 📈 `> tail -f ~/activity.log`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudiptoodip&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptoodip&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudiptoodip&bg_color=0d1117&color=00ff88&line=0f8040&point=ffffff&area=true&area_color=0f5132&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudiptoodip&theme=dark&hide_border=true&background=0d1117" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudiptoodip&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
-</p>
-
+<!-- The snake is generated by .github/workflows/snake.yml (first run populates it after you push) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptoodip/sudiptoodip/output/github-snake-dark.svg" />
@@ -71,38 +131,22 @@ I'm a self-taught front-end developer from Bangladesh who enjoys building clean,
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sudiptoodip&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
-## 🚀 Featured Projects
-
-<!-- 👉 Replace REPO_NAME_1 ... REPO_NAME_4 with your real repository names. -->
-<p align="center">
-  <a href="https://github.com/sudiptoodip/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_1&theme=dark&hide_border=true&bg_color=0d1117" alt="Project 1" /></a>
-  <a href="https://github.com/sudiptoodip/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_2&theme=dark&hide_border=true&bg_color=0d1117" alt="Project 2" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/sudiptoodip/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_3&theme=dark&hide_border=true&bg_color=0d1117" alt="Project 3" /></a>
-  <a href="https://github.com/sudiptoodip/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudiptoodip&repo=REPO_NAME_4&theme=dark&hide_border=true&bg_color=0d1117" alt="Project 4" /></a>
-</p>
-
----
-
-## 🤝 Connect With Me
+<!-- ===================== CONNECT ===================== -->
+## 🤝 `> ./connect.sh`
 
 <p align="center">
-  <a href="https://sudipto.page.gd/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:sudiptoking3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://sudipto.page.gd/"><img src="https://img.shields.io/badge/PORTFOLIO-0f8040?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:sudiptoking3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/sudiptoo_dip"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://linkedin.com/in/sudiptoodip"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.gg/tYjCe7VfYx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://fb.com/sudiptoo.dip"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/sudiptoo.dip"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/sudiptoodip"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.gg/tYjCe7VfYx"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://fb.com/sudiptoo.dip"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/sudiptoo.dip"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by! ⭐ a repo if you like what you see.</i></p>
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:0d1117&height=100&section=footer" alt="" width="100%" />
+</p>
