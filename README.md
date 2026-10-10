@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f5132&height=200&section=header&text=Hey%20%F0%9F%91%8B%2C%20I'm%20Sudipto&fontSize=54&fontColor=00ff88&fontAlign=50&fontAlignY=35&desc=front-end.dev%20%C2%B7%20learning.backend%20%C2%B7%20self-taught%20%C2%B7%20designer&descSize=16&descAlign=50&descAlignY=55" alt="Sudipto Chowdhury" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f5132&height=200&section=header&text=Hey%20%F0%9F%91%8B%2C%20I'm%20Sudipto&fontSize=54&fontColor=00ff88&fontAlign=50&fontAlignY=35&desc=front-end dev%20%C2%B7%20learning backend%20%C2%B7%20self-taught%20%C2%B7%20designer&descSize=16&descAlign=50&descAlignY=55" alt="Sudipto Chowdhury" width="100%" />
 </p>
 
 <h3 align="center">Front-End Developer • Learning Backend • Designer</h3>
